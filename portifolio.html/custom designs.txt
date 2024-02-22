@@ -1,0 +1,29 @@
+<!DOCTYPE!html>
+<html lang="en"
+<head>
+  <meta charset=UTF-8>
+</head>
+<title>
+  welcome to custom designs
+</title>
+<body>
+  <h1>
+    HOME
+  </h1>
+  <h2>
+    Hello, is the page pending!
+    <a href="https://www.dreamstime.com/illustration/welcome-home-design.html"visit google.com></a>
+  </h2>
+  <h3>
+    About
+  </h3>
+  <h4>
+    we design and customize web pages to solve customers choices
+    <a href> https://wish.org/<visit google.com</a>
+  </h4>
+  <h5>Projects</h5>
+  <h6>
+    designing a web page to allow colege students access reference materials for free!
+    <a>https://www.amazon.com/s?k=software+engineering+book&i=todays-deals&crid=Z2JNOE5IWI2E&sprefix=software+engineering+book%2Ctodays-deals%2C338&ref=nb_sb_noss_1>visit <google class="com"></google></a>
+  </h6>
+</body>
